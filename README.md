@@ -123,7 +123,7 @@ select * from
 as cum_sum from credit_card_transaction)A
 where cum_sum >=1000000 )B
 where rn=1
-
+```
 
 
 4- write a query to find city which had lowest percentage spend for gold card type
@@ -234,7 +234,7 @@ This project enabled me to:
 
 ## **Conclusion**
 
-This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
+This project leverages SQL to analyze credit card transactions and extract business insights. These queries help financial institutions understand spending trends, optimize card offerings, and enhance customer targeting strategies.
 
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
 
