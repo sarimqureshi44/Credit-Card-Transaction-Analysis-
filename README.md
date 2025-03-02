@@ -1,4 +1,4 @@
-# Credit-Card-Transaction-Analysis-
+# Credit-Card-Transaction-Analysis
 
 ---
 
@@ -10,7 +10,6 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-![erd2](erd2.png)
 
 ## **Database Setup & Design**
 
@@ -35,11 +34,6 @@ CREATE TABLE [dbo].[credit_card_transaction](
 
 -- end of schemas
 ```
-
----
-
-
-
 ---
 
 ## **Objective**
@@ -217,8 +211,6 @@ group by city
 having count(*)=2
 order by days_to_500 asc
 ```
----
-
 ---
 
 ## **Learning Outcomes**
